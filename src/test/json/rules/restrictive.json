@@ -1,0 +1,6 @@
+{
+    "board_size": {"x":10, "y":15},
+    "can_unowned_pawn_be_placed": false,
+    "can_unplaying_player_place_pawn": false,
+    "max_pawn": 4
+}

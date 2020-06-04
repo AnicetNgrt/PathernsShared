@@ -1,0 +1,26 @@
+{
+  "name": "patherns-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.3",
+    "@types/jest": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnicetNgrt/PathernsShared.git"
+  },
+  "author": "Anicet Nougaret",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/AnicetNgrt/PathernsShared/issues"
+  },
+  "homepage": "https://github.com/AnicetNgrt/PathernsShared#readme"
+}
